@@ -1,2 +1,2 @@
 # gitRes
-Hello world
+Hello world！
